@@ -1,0 +1,4 @@
+Basics Of DevOps:
+DevOps is methodology where Developers and Operations team work hand to hand by sharing knowledge in an efficient manners using speciifc tools.It also levarages
+tools using  CI/CD, terraform , Version Control, Agile etc
+ 
