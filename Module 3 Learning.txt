@@ -1,0 +1,2 @@
+Agile methodoly: Agile methodology removes the rigid workflow of Waterfall and replace it more flexible workflow that is more focused on the meeting customer
+requirement.
