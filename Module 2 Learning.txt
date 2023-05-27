@@ -1,0 +1,6 @@
+GreenField Project: GreenField project is kind of project that will be build on greenfield  or we can say  it is built from scratch there is no existing codebase
+no technical debt.
+BroenField Project: BrownField project is kind of project that will be build on existing infrastuture and huge codebase and technical debt
+
+System of Data: System where the data is critical like banking system.
+System of Engage: System of Engagement where Engage ment is propritized
